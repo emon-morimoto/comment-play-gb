@@ -3,13 +3,13 @@
 2018/5/26のうんこちゃんの放送が元ネタ  
 コメントでゲームができたらおもしろい発言を受けて適当に制作したため、ニコニコしか対応できていないのでgm  
   
-使わせていただいたもの
+使わせていただいたもの  
 ・anko2unity  
-  https://github.com/TORISOUP/anko2Unity  
+　https://github.com/TORISOUP/anko2Unity  
 ・NicoliveCommentReceiver  
-  https://github.com/TORISOUP/NicoliveCommentReciever  
+　https://github.com/TORISOUP/NicoliveCommentReciever  
 ・unity-gb  
-  https://github.com/KonsomeJona/unity-gb  
+　https://github.com/KonsomeJona/unity-gb  
   
 手順  
 1.以下よりあんこちゃんをインストール  
